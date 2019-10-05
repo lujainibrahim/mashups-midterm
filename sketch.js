@@ -44,9 +44,15 @@ function setup() {
   canvas = createCanvas(canvasWidth,canvasHeight);
   canvas.parent('sketch-holder');
 
-  // Phase One Creation
-  phaseOne = createSprite(360,178);
-  phaseOne.addImage(phaseOne_img);
+  if (phase == 1) {
+    // Phase One Creation
+    phaseOne = createSprite(360,178);
+    phaseOne.addImage(phaseOne_img);
+  } else if (phase == 2) {
+    // Phase Two Creation
+    phaseTwo = createSprite(360,178);
+    phaseTwo.addImage(phaseTwo_img);
+  }
 
   // Hover 1 Creation
   hoverOne = createSprite(121,462.5);
