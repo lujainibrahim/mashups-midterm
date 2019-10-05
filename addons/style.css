@@ -3,6 +3,7 @@
 a {
 	color: #E429F2;
 	text-decoration: none;
+  font-family: 'IBM Plex Sans', sans-serif;
 	-o-transition-duration: 0.2s;
 	-ms-transition-duration: 0.2s;
 	-moz-transition-duration: 0.2s;
