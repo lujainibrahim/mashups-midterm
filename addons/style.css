@@ -91,56 +91,28 @@ a:hover {
 /* Main Text Containers */
 
 #partone {
-	/* display: none; */
+	display: none;
 	margin-bottom: 30px;
 }
 
 #parttwo {
-	/* display: none; */
+	display: none;
 	margin-bottom: 30px;
 }
 
 #partthree {
-	/* display: none; */
+	display: none;
 	margin-bottom: 30px;
 }
 
 #partfour {
-	/* display: none; */
+	display: none;
 	margin-bottom: 30px;
 }
 
 #partfive {
-	/* display: none; */
+	display: none;
 	margin-bottom: 30px;
-}
-
-
-#partsix {
-	/* display: none; */
-	margin-bottom: 30px;
-}
-
-/* Unlock Buttons */
-
-#unlockone {
-	display: none;
-}
-
-#unlocktwo {
-	display: none;
-}
-
-#unlockthree {
-	display: none;
-}
-
-#unlockfour {
-	display: none;
-}
-
-#unlockfive {
-	display: none;
 }
 
 /* Instructions */
@@ -158,4 +130,12 @@ a:hover {
 h3 {
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 14px;
+}
+
+.phase {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 14px;
+	position: fixed;
+	bottom: 2%;
+	right: 2%;
 }
