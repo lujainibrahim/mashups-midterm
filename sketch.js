@@ -6,6 +6,8 @@ var character;
 var stanLee;
 var phaseOne;
 var phaseOne_img;
+var phaseTwo;
+var phaseTwo_img;
 var gauntletLock;
 
 // Overlap Points
@@ -31,6 +33,7 @@ var startY = 419;
 function preload() {
   stanLee = loadImage('./images/stanLee.png');
   phaseOne_img = loadImage('./images/phaseOne.png');
+  phaseTwo_img = loadImage('./images/phaseTwo.png');
   hoverImg = loadImage('./images/hoverNormal.png');
   hoverImgActive = loadImage('./images/hoverActive.png');
 }
