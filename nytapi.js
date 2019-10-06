@@ -18,7 +18,7 @@ $('.movie').each(function(count){
             for (var i = 0; i < 3; i++) {
                 var article = articles[i];
                 $element.append('<br><li class="article">'+
-                    '<a href="'+article.link.url+'">'+article.display_title+'</a>'+
+                    '<a href="'+article.link.url+'" target="_blank">'+article.display_title+'</a>'+
                     '<p><b> Review by:</b> ' + article.byline + '</p>'+'<p>'+article.summary_short+'</p>'+
                     '</li>');
                   }
