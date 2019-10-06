@@ -22,5 +22,5 @@ The purpose of this project is to:
 * JavaScript
 
 <b>Libraries:</b>
-* TBD
-* TBD
+* p5.js
+* jQuery
