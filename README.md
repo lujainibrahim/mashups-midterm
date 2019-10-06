@@ -6,7 +6,7 @@
 
 The purpose of this project is to:
 * Visualize the timeline of MCU films (chronologically in the order of movie events and <b>not</b> release dates)
-* Do that in a dyanimic and interactive manner
+* Do that in a dynamic and interactive manner
 * Provide viewers unfamiliar with the MCU with a way to understand the significance and cultural and cinematic impact of these films through a framework familiar to moviegoers — movie critic reviews
 * Allow them the space to further explore films of interest on the same platform through a Wikipedia search option
 
