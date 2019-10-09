@@ -17,7 +17,7 @@ The purpose of this project is to:
 ### Languages & Libraries Used
 
 <b>Languages:</b> 
-* HTMl
+* HTML
 * CSS
 * JavaScript
 
